@@ -1,0 +1,132 @@
+
+/* Class = "NSMenuItem"; title = "Self Service"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Self Service";
+
+/* Class = "NSToolbarItem"; label = "Library"; ObjectID = "34f-JQ-bIu"; */
+"34f-JQ-bIu.label" = "Home";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Library"; ObjectID = "34f-JQ-bIu"; */
+"34f-JQ-bIu.paletteLabel" = "Home";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH"; */
+"3rS-ZA-NoH.title" = "Voce";
+
+/* Class = "NSMenuItem"; title = "Quit Self Service"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Esci da Self Service";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
+"5QF-Oa-p0T.title" = "Modifica";
+
+/* Class = "NSMenuItem"; title = "About Self Service"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "Informazioni su Self Service";
+
+/* Class = "NSToolbarItem"; label = "Search"; ObjectID = "6N0-U2-FfL"; */
+"6N0-U2-FfL.label" = "Cerca";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Search"; ObjectID = "6N0-U2-FfL"; */
+"6N0-U2-FfL.paletteLabel" = "Cerca";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Menu principale";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Aiuto";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
+"H8h-7b-M4v.title" = "Visualizza";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
+"HyV-fh-RgO.title" = "Visualizza";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Mostra tutte";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "Porta tutto in primo piano";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Servizi";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "Riduci";
+
+/* Class = "NSMenuItem"; title = "Hide Self Service"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Nascondi Self Service";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm"; */
+"Oyz-dy-DGm.title" = "Interrompi riproduzione";
+
+/* Class = "NSMenuItem"; title = "Reload Self Service"; ObjectID = "Qap-GA-o8c"; */
+"Qap-GA-o8c.title" = "Ricarica Self Service";
+
+/* Class = "NSWindow"; title = "Self Service"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Self Service";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
+"R4o-n2-Eq4.title" = "Zoom";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
+"Ruw-6m-B2m.title" = "Seleziona tutto";
+
+/* Class = "NSToolbarItem"; label = "Refresh"; ObjectID = "TCb-WH-lWI"; */
+"TCb-WH-lWI.label" = "Aggiorna";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Refresh"; ObjectID = "TCb-WH-lWI"; */
+"TCb-WH-lWI.paletteLabel" = "Aggiorna";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "Finestra";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Nascondi altre";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl"; */
+"W48-6f-4Dl.title" = "Modifica";
+
+/* Class = "NSToolbarItem"; label = "History"; ObjectID = "YTi-7S-Q5q"; */
+"YTi-7S-Q5q.label" = "Cronologia";
+
+/* Class = "NSToolbarItem"; paletteLabel = "History"; ObjectID = "YTi-7S-Q5q"; */
+"YTi-7S-Q5q.paletteLabel" = "Cronologia";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "Ynk-f8-cLZ"; */
+"Ynk-f8-cLZ.title" = "Avvia riproduzione";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "Finestra";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
+"gVA-U4-sdL.title" = "Incolla";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Servizi";
+
+/* Class = "NSToolbarItem"; label = "Notifications"; ObjectID = "nIC-iO-w50"; */
+"nIC-iO-w50.label" = "Notifiche";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Notifications"; ObjectID = "nIC-iO-w50"; */
+"nIC-iO-w50.paletteLabel" = "Notifiche";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k"; */
+"pa3-QI-u2k.title" = "Elimina";
+
+/* Class = "NSToolbarItem"; label = "Right Space"; ObjectID = "u0W-Ai-WtA"; */
+"u0W-Ai-WtA.label" = "Spazio a destra";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Left Space"; ObjectID = "u0W-Ai-WtA"; */
+"u0W-Ai-WtA.paletteLabel" = "Spazio a sinistra";
+
+/* Class = "NSMenu"; title = "Self Service"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Self Service";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG"; */
+"uRl-iY-unG.title" = "Taglia";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Aiuto";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; */
+"x3v-GG-iWU.title" = "Copia";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "xrE-MZ-jX0"; */
+"xrE-MZ-jX0.title" = "Voce";

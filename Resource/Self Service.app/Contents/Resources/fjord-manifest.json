@@ -1,0 +1,52 @@
+{
+    "flavor": "dev",
+    "tabsOrder": [
+        "navigation.item.home",
+        "navigation.item.catalog",
+        "navigation.item.notifications"
+    ],
+    "topCustomTabsOrder": [
+        "navigation.item.branding"
+    ],
+    "bottomCustomTabsOrder": [
+        "navigation.item.authentication"
+    ],
+    "embedded": [
+            {
+                "url": "https://github.com/jamf/osx-self-service.git",
+                "branch": "{{ branch_name }}",
+                "capabilities": [
+                    { "name": "Self_Service", "URLSchemes": ["selfservicecapability"] },
+                ]
+            },
+            {
+                "path": "./ExampleCapabilities/Notifications",
+                "capabilities": [
+                    { "name": "NotificationCapability", "URLSchemes": [] }
+                ]
+            },
+            {
+                "url": "https://github.com/jamf/ssp-capability-branding.git",
+                "branch": "{{ branding_branch_name }}",
+                "capabilities": [
+                    { "name": "Branding", "URLSchemes": [""] }
+                ]
+            }
+        ],
+    "remote": [],
+    "deployment": {
+        "packageScriptOrder": {
+            "preInstall": [
+                "HostApplication"
+            ],
+            "postInstall": [
+                "HostApplication"
+            ],
+            "preUninstall": [],
+            "postUninstall": [
+                "HostApplication"
+            ]
+        },
+        "artifacts": []
+    }
+}

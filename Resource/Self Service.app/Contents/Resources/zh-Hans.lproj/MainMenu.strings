@@ -1,0 +1,132 @@
+
+/* Class = "NSMenuItem"; title = "Self Service"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Self Service";
+
+/* Class = "NSToolbarItem"; label = "Library"; ObjectID = "34f-JQ-bIu"; */
+"34f-JQ-bIu.label" = "主页";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Library"; ObjectID = "34f-JQ-bIu"; */
+"34f-JQ-bIu.paletteLabel" = "主页";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH"; */
+"3rS-ZA-NoH.title" = "语音";
+
+/* Class = "NSMenuItem"; title = "Quit Self Service"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "退出 Self Service";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
+"5QF-Oa-p0T.title" = "编辑";
+
+/* Class = "NSMenuItem"; title = "About Self Service"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "关于 Self Service";
+
+/* Class = "NSToolbarItem"; label = "Search"; ObjectID = "6N0-U2-FfL"; */
+"6N0-U2-FfL.label" = "搜索";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Search"; ObjectID = "6N0-U2-FfL"; */
+"6N0-U2-FfL.paletteLabel" = "搜索";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "主菜单";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
+"H8h-7b-M4v.title" = "查看";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
+"HyV-fh-RgO.title" = "查看";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "显示全部";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "全部置于顶层";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "服务";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "最小化";
+
+/* Class = "NSMenuItem"; title = "Hide Self Service"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "隐藏 Self Service";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm"; */
+"Oyz-dy-DGm.title" = "停止朗读";
+
+/* Class = "NSMenuItem"; title = "Reload Self Service"; ObjectID = "Qap-GA-o8c"; */
+"Qap-GA-o8c.title" = "重新加载 Self Service";
+
+/* Class = "NSWindow"; title = "Self Service"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Self Service";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
+"R4o-n2-Eq4.title" = "缩放";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
+"Ruw-6m-B2m.title" = "全选";
+
+/* Class = "NSToolbarItem"; label = "Refresh"; ObjectID = "TCb-WH-lWI"; */
+"TCb-WH-lWI.label" = "刷新";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Refresh"; ObjectID = "TCb-WH-lWI"; */
+"TCb-WH-lWI.paletteLabel" = "刷新";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "隐藏其他";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl"; */
+"W48-6f-4Dl.title" = "编辑";
+
+/* Class = "NSToolbarItem"; label = "History"; ObjectID = "YTi-7S-Q5q"; */
+"YTi-7S-Q5q.label" = "History";
+
+/* Class = "NSToolbarItem"; paletteLabel = "History"; ObjectID = "YTi-7S-Q5q"; */
+"YTi-7S-Q5q.paletteLabel" = "History";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "Ynk-f8-cLZ"; */
+"Ynk-f8-cLZ.title" = "开始朗读";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
+"gVA-U4-sdL.title" = "粘贴";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "服务";
+
+/* Class = "NSToolbarItem"; label = "Notifications"; ObjectID = "nIC-iO-w50"; */
+"nIC-iO-w50.label" = "通知";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Notifications"; ObjectID = "nIC-iO-w50"; */
+"nIC-iO-w50.paletteLabel" = "通知";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k"; */
+"pa3-QI-u2k.title" = "删除";
+
+/* Class = "NSToolbarItem"; label = "Right Space"; ObjectID = "u0W-Ai-WtA"; */
+"u0W-Ai-WtA.label" = "右空格键";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Left Space"; ObjectID = "u0W-Ai-WtA"; */
+"u0W-Ai-WtA.paletteLabel" = "左空格键";
+
+/* Class = "NSMenu"; title = "Self Service"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Self Service";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG"; */
+"uRl-iY-unG.title" = "剪切";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; */
+"x3v-GG-iWU.title" = "复制";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "xrE-MZ-jX0"; */
+"xrE-MZ-jX0.title" = "语音";
